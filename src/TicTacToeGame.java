@@ -1,4 +1,3 @@
-package TicTacToe.src;
 import java.util.Scanner; // Import the Scanner class to read user input
 
 public class TicTacToeGame { // Our main class
